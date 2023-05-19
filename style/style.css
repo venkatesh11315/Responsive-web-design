@@ -1,0 +1,106 @@
+/* navbarstyle */
+.navstyle {
+    color: antiquewhite;
+    text-align: start;
+}
+
+
+.heading1 {
+    color: wheat;
+    text-align: center;
+   
+    
+    line-height: 2;
+   
+}
+
+.img-fluid {
+    width: 55%;
+    height: 70%;
+    margin-top: 9%;
+    margin-left: 15%;
+
+}
+
+h1 {
+    color: black;
+
+}
+
+/* paragraph style */
+
+.align {
+    padding-left: 60px;
+    color: black;
+
+}
+
+/* button styles  */
+.btnstyle {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.btncolor {
+
+    background-color: orange;
+
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttonpadding {
+    padding-bottom: 30px;
+
+}
+
+.peace {
+    color: aliceblue;
+    text-align: center;
+    font-size: 70px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.hrlineleft {
+    float: left;
+    width: 45%;
+}
+
+.hrlineright {
+    float: right;
+    width: 45%;
+}
+
+.hrlineleft2 {
+    float: left;
+    width: 44%;
+    color: red;
+
+
+}
+
+.hrlineright2 {
+    float: right;
+    width: 44%;
+    color: red;
+
+}
+.card-title {
+    font-size: 20px;
+}
+
+.footer {
+    color: aliceblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.fa-envelope{
+    font-size: 15px;
+}
+.fa-github{
+    color: wheat;
+}
